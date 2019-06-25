@@ -1,0 +1,22 @@
+index.html
+
+1:2-3 = navbar(myname)
+1:9 = navbar about
+1:10 = navbar portfolio
+1:11 = navbar contact
+2:2-11 = content/jumbotron
+3:1-12 = footer
+
+contact.html
+
+1:2-3 = navbar(myname)
+1:9 = navbar about
+1:10 = navbar portfolio
+1:11 = navbar contact
+
+portfolio.html
+
+1:2-3 = navbar(myname)
+1:9 = navbar about
+1:10 = navbar portfolio
+1:11 = navbar contact
